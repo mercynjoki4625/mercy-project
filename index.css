@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(206, 193, 175) ;
+    font-size: large ;
+}
+.profile{
+    text-align: center;
+}
+
+
+
+.flexcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+
+}
+.index{
+    padding-left: 40px;
+    margin-left: 2px;
+
+    
+}
+
+ 
+    
